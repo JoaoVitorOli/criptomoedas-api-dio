@@ -1,4 +1,4 @@
-const API_KEY = "d6766c54-1a40-47bd-81c4-f1fac2c82e6d";
+const API_KEY = "Sua chave aqui";
 
 const requestOptions = {
   method: 'GET',
